@@ -1,0 +1,2 @@
+01, hoppers, 30
+02, chainees rolls, 50
